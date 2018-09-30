@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e9d894aa-564f-4f94-a17f-1c9a174a14c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "NETFLIX_": {
+      "ver": "1.0.3",
+      "uuid": "bb073ae7-28f6-4d9e-aff7-fd57ef773e76",
+      "rawTextureUuid": "e9d894aa-564f-4f94-a17f-1c9a174a14c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

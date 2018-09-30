@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4d1f2105-a95d-4f2b-a915-531bc11b04a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Hush Puppies_": {
+      "ver": "1.0.3",
+      "uuid": "8a7019ff-40f7-4104-86bb-13feb1148ca0",
+      "rawTextureUuid": "4d1f2105-a95d-4f2b-a915-531bc11b04a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

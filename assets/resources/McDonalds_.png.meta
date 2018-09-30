@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2e7d3620-0c47-4533-a081-084561c5b06c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "McDonalds_": {
+      "ver": "1.0.3",
+      "uuid": "d9904b5b-b894-4c71-a9d2-ba473de571f0",
+      "rawTextureUuid": "2e7d3620-0c47-4533-a081-084561c5b06c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

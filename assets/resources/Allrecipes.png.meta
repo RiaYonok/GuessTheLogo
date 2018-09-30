@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "97766732-3fd5-4acd-b15b-296b39b021dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Allrecipes": {
+      "ver": "1.0.3",
+      "uuid": "973911f4-9d83-4fc0-8ebb-5f478b9e3931",
+      "rawTextureUuid": "97766732-3fd5-4acd-b15b-296b39b021dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

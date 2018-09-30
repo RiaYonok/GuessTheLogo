@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "15ac1e2c-eb52-47b0-bf08-f8c0c7512c34",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Papermate": {
+      "ver": "1.0.3",
+      "uuid": "82d4343f-4fcd-4e96-80a7-1613c33453a6",
+      "rawTextureUuid": "15ac1e2c-eb52-47b0-bf08-f8c0c7512c34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

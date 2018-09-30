@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b2d7ac90-54cf-4b40-b017-05598afc2ec9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "IBM_": {
+      "ver": "1.0.3",
+      "uuid": "d7bf2dea-b198-42c1-83f6-6da4282b8426",
+      "rawTextureUuid": "b2d7ac90-54cf-4b40-b017-05598afc2ec9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

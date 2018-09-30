@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8147d7cd-3b00-48b7-8247-642455aeefee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Calvin Klein": {
+      "ver": "1.0.3",
+      "uuid": "afd0d31a-3f0d-4aef-8260-11176ef88de6",
+      "rawTextureUuid": "8147d7cd-3b00-48b7-8247-642455aeefee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

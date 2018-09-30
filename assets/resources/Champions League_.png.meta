@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "87795abc-6ef8-4ff8-a762-860162d4cc85",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Champions League_": {
+      "ver": "1.0.3",
+      "uuid": "5662021d-50d1-4e60-b801-ed0a110dd055",
+      "rawTextureUuid": "87795abc-6ef8-4ff8-a762-860162d4cc85",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

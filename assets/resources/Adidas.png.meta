@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ca5e2c23-89f2-4917-bfaf-3dc62daf75ca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Adidas": {
+      "ver": "1.0.3",
+      "uuid": "f3782f4d-5fb9-47ff-b384-84ebc08f53f2",
+      "rawTextureUuid": "ca5e2c23-89f2-4917-bfaf-3dc62daf75ca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

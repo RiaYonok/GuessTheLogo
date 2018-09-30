@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "715c0c57-2701-44c8-9da3-dac585e2552d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Android_": {
+      "ver": "1.0.3",
+      "uuid": "263f224b-2bea-4073-9249-e0d44e5c2f99",
+      "rawTextureUuid": "715c0c57-2701-44c8-9da3-dac585e2552d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

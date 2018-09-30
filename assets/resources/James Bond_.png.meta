@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8b5a69f0-db85-441a-b0a2-396dbc250977",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "James Bond_": {
+      "ver": "1.0.3",
+      "uuid": "05f456c0-f581-4f94-8ddf-f2774aceee43",
+      "rawTextureUuid": "8b5a69f0-db85-441a-b0a2-396dbc250977",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c1e8b7b6-5a5c-485d-a418-1433543c0e48",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Lukoil": {
+      "ver": "1.0.3",
+      "uuid": "fd15fbc3-7e12-45ac-90ec-e03d4888f9ab",
+      "rawTextureUuid": "c1e8b7b6-5a5c-485d-a418-1433543c0e48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

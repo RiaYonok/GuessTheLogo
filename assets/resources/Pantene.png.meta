@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7104beb5-1daf-46cf-8392-abefd7856070",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Pantene": {
+      "ver": "1.0.3",
+      "uuid": "43755857-d0a0-4db6-a35a-6cf547cf76f1",
+      "rawTextureUuid": "7104beb5-1daf-46cf-8392-abefd7856070",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

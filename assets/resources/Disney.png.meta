@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "af23de8b-5d08-49b7-95f0-474d7693568a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Disney": {
+      "ver": "1.0.3",
+      "uuid": "762efafb-eddf-4bd2-8aeb-1ecba3769d02",
+      "rawTextureUuid": "af23de8b-5d08-49b7-95f0-474d7693568a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

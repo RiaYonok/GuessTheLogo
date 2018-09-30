@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6294e19e-dcb6-4884-9be7-a24c8fa228ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Pepsi": {
+      "ver": "1.0.3",
+      "uuid": "4fb8d5fb-d579-4d3d-a511-1bff7cfeb481",
+      "rawTextureUuid": "6294e19e-dcb6-4884-9be7-a24c8fa228ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

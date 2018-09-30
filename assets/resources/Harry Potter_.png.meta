@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f16e6078-1dba-4c06-803e-0dc0f9afb805",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Harry Potter_": {
+      "ver": "1.0.3",
+      "uuid": "ca155ffb-e898-4aef-be97-00e133529435",
+      "rawTextureUuid": "f16e6078-1dba-4c06-803e-0dc0f9afb805",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

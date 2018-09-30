@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "db778cda-0573-4d4f-bf24-0e767c1a70fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "NY Yankees": {
+      "ver": "1.0.3",
+      "uuid": "ba2f7514-6287-4c33-9bb3-a80ef3007198",
+      "rawTextureUuid": "db778cda-0573-4d4f-bf24-0e767c1a70fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 413,
+      "height": 233,
+      "rawWidth": 413,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
